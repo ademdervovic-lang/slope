@@ -1,5 +1,5 @@
 # The "Homework"
-> **Made by pay gorn**
+> **Made by the goat**
 
 Welcome to my gaming repository! Here you can find out about the games I build. Well more like find from the internet
 ---
@@ -27,3 +27,14 @@ square stole pinapple, kill him
 If you have any questions about my games, projects or how i made this feel free to reach out!
 
 [![Message me on Instagram](https://img.shields.io/badge/Message_me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ademdervovic/?hl=en)
+
+---
+
+### ☕ Support the Project
+If this repository helped you bypass restrictions or host your game, consider supporting my work!
+
+| Donate via Bitcoin | Wallet Address |
+| :--- | :--- |
+| ![BTC Badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) | `bc1qhzed83h9n7xl6mzgfq8mwpsch9mcee0n279pkc` |
+
+> **Note:** Please double-check the address before sending. Every bit helps keep the project updated!
