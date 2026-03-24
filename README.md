@@ -8,6 +8,7 @@ Welcome to my gaming repository! Here you can find out about the games I build. 
 
 #### slope
 <img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/9027929f-36dd-4326-a39c-97ea79356b7a" />
+[![Slope Game](https://github.com/user-attachments/assets/9027929f-36dd-4326-a39c-97ea79356b7a)](index.html)
 
 
 #### 2. big tower tiny square
